@@ -7,7 +7,7 @@ GColab links with provided resulting evaluations:
 - [simple case](https://colab.research.google.com/drive/11IAgty97KMoy1OipNeIMZrLryZN2NtwG?usp=sharing)
 - [using dropout everywhere while upsampling](https://drive.google.com/file/d/1f-Ac-O8xZEKEZjR9ax-cbH9K0fFxuTeK/view?usp=sharing)
 - [same as previous, except using of dropout rate of 20%](https://colab.research.google.com/drive/1JJV62D_ebV94K1zsk7jTGURUYxboQcFC?usp=sharing)
-- [same as previous, except the batch normalization is unabled](https://drive.google.com/file/d/1WTm0htswARfvAr5y6qPK08D3EUYJTZz2/view?usp=sharing)
+- [same as previous, except the batch normalization is unabled while downsampling](https://drive.google.com/file/d/1WTm0htswARfvAr5y6qPK08D3EUYJTZz2/view?usp=sharing)
 
 Additional resources : 
 - https://junyanz.github.io/CycleGAN/
