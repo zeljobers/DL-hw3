@@ -16,4 +16,11 @@ Additional resources :
 - [UNET](https://arxiv.org/pdf/1505.04597)
 - [pix2pix with the facade dataset and resulting evaluations](https://drive.google.com/file/d/1KwiA4IYZkIVlwsCoPl3bsjsHFyVNuZIZ/view?usp=sharing)
 
+- https://github.com/cvondrick/videogan/tree/master
+- https://github.com/costapt/vess2ret/tree/master
+- https://github.com/LukasMosser/PorousMediaGan
+- https://github.com/christopher-beckham/gan-heightmaps
+- https://github.com/layumi/Person-reID_GAN
+- https://github.com/facebookarchive/eyescream?tab=readme-ov-file
+
 ## Mentor : Miloš Kotlar
